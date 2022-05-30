@@ -32,7 +32,7 @@ import ModalNews from '@/components/modals/ModalNews.vue'
 
 
 export default {
-  name: 'Home',
+  name: 'News',
   components: {
     'modal-news': ModalNews
   },
